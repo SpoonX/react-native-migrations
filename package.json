@@ -1,0 +1,12 @@
+{
+  "name": "react-native-migrations",
+  "version": "0.0.1",
+  "description": "This project will allow you to run migrations between versions of your app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
